@@ -3,7 +3,8 @@
 INTRODUCTION :
 
 This is a College project where I have to create two separate programs. A C++ Chat Client that communicates through TCP
-and a C++ Chat Server that communicates through TCP into my project and initialize it using C++.
+and a C++ Chat Server that communicates through TCP into my project and initialize it using C++. It uses Big Endian serializing
+and Deserializing for 32bit Unsigned int and 16bit Unsigned Short and String
 
 BUILDING AND RUNNING :
 
